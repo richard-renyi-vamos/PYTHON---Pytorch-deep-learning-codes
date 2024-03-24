@@ -1,4 +1,6 @@
+CHATGPT CONVERSATION 
 
+---------
 
 User
 create a PYTORCH code in python that creates a prediction based on a dataset
